@@ -1,16 +1,23 @@
-## Hi there 👋
+### Salut, moi c'est Ahmadou 👋 - Ahma Tech
 
-<!--
-**hmdiakhate-wq/hmdiakhate-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer | Je construis des sites qui font vendre.**
 
-Here are some ideas to get you started:
+Je ne fais pas juste du code. Je construis des machines à clients pour les business à Dakar et partout.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🚀 Ce que je construis :**
+- 🛒 **Sites E-commerce** - Boutique en ligne avec paiement Wave / Orange Money
+- 🏢 **Sites Vitrines Pro** - Pour que ta boutique ait l'air d'une grande entreprise
+- ⚙️ **Applications Web** - Pour automatiser ton travail et gagner du temps
+
+**🛠️ Mes armes :**
+`HTML CSS JavaScript` `React` `PHP` `MYSQL` `PYTHON`
+
+**👀 Voir mon travail en live :**
+**Portfolio :** https://ahmadiakhate.vercel.app
+
+**📩 Me contacter pour un projet :**
+**Email :** contact.ahmatech@gmail.com
+**WhatsApp :** Disponible 7j/7
+
+---
+*📍 Dakar, Sénégal - Disponible pour missions Freelance*
