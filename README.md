@@ -16,7 +16,7 @@ Je ne fais pas juste du code. Je construis des machines à clients pour les busi
 **Portfolio :** https://ahmadiakhate.vercel.app
 
 **📩 Me contacter pour un projet :**
-**Email :** contact.ahmatech@gmail.com
+**Email :** contact.ahmadiakhate@gmail.com
 **WhatsApp :** Disponible 7j/7
 
 ---
